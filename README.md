@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @info-int
 - 👀 I’m interested in information
-- 🌱 I’m currently learning digital communication
 
 
 <!---
